@@ -1,5 +1,5 @@
 # Sample_ML_Training
-# Task : Computational Statistics and Machine Learning
+# Task: Computational Statistics and Machine Learning
 
 ## Project Description
 This project applies standard computational statistics and a Machine Learning algorithm to analyze a dataset. The key steps include:
@@ -40,6 +40,6 @@ The dataset was derived from the following studies:
 To set up the project, clone the repository and install the required Python libraries:
 
 ```bash
-git clone [your-repository-link]
-cd [repository-name]
+git clone (https://github.com/Sahil5273/Sample_ML_Training.git)
+cd Sample_ML_Traning
 pip install -r requirements.txt
