@@ -22,6 +22,17 @@ This project applies standard computational statistics and a Machine Learning al
 
 ## Dataset
 **Dataset Name: Data.xlsv 
+## Dataset
+The dataset used in this project compiles purine content data from various published studies. These studies analyze purine levels in food products, including meats, vegetables, seafood, alcoholic beverages, and more.
+
+### Data Sources
+The dataset was derived from the following studies:
+- Brulé, D., et al. (1988). *Purine content of selected Canadian food products*. Journal of Food Composition and Analysis, 1(2), 130-8.
+- Kaneko, K., et al. (2014). *Total purine and purine base content of common foodstuffs for facilitating nutritional therapy for gout and hyperuricemia*. Biological and Pharmaceutical Bulletin, 37(5), 709-21.
+- Qu, X., et al. (2017). *Determination of four different purines and their content change in seafood by high-performance liquid chromatography*. Journal of the Science of Food and Agriculture, 97(2), 520-5.
+
+*(Note: Full details of all sources can be found in the sheet 4 (Table4_Sources of data) of data.xlsv in this repository.)*
+
 
 ---
 
